@@ -15,4 +15,4 @@ A React-based card counting UI for Baccarat, using Revere-style logic.
 
 ---
 
-Made with ❤️ by @sherryiqbal
+Made with ❤️ by @pakindgamer
